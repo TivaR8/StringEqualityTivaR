@@ -35,6 +35,7 @@
             this.txtString1 = new System.Windows.Forms.TextBox();
             this.txtString2 = new System.Windows.Forms.TextBox();
             this.btnCheck = new System.Windows.Forms.Button();
+            this.lblStringsEqualAns = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lblInstructions
@@ -98,11 +99,21 @@
             this.btnCheck.UseVisualStyleBackColor = true;
             this.btnCheck.Click += new System.EventHandler(this.btnCheck_Click);
             // 
+            // lblStringsEqualAns
+            // 
+            this.lblStringsEqualAns.AutoSize = true;
+            this.lblStringsEqualAns.Location = new System.Drawing.Point(38, 224);
+            this.lblStringsEqualAns.Name = "lblStringsEqualAns";
+            this.lblStringsEqualAns.Size = new System.Drawing.Size(120, 13);
+            this.lblStringsEqualAns.TabIndex = 7;
+            this.lblStringsEqualAns.Text = "These strings are equal.";
+            // 
             // frmStringEquality
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(322, 260);
+            this.Controls.Add(this.lblStringsEqualAns);
             this.Controls.Add(this.btnCheck);
             this.Controls.Add(this.txtString2);
             this.Controls.Add(this.txtString1);
@@ -126,6 +137,7 @@
         private System.Windows.Forms.TextBox txtString1;
         private System.Windows.Forms.TextBox txtString2;
         private System.Windows.Forms.Button btnCheck;
+        private System.Windows.Forms.Label lblStringsEqualAns;
     }
 }
 

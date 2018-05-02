@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\StringEqualityTivaR\StringEqualityTivaR\bin\Debug\StringEqualityTivaR.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\StringEqualityTivaR\StringEqualityTivaR\bin\Debug\StringEqualityTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\StringEqualityTivaR\StringEqualityTivaR\bin\Debug\StringEqualityTivaR.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\StringEqualityTivaR\StringEqualityTivaR\obj\Debug\StringEqualityTivaR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\StringEqualityTivaR\StringEqualityTivaR\obj\Debug\StringEqualityTivaR.frmStringEquality.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\StringEqualityTivaR\StringEqualityTivaR\obj\Debug\StringEqualityTivaR.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\StringEqualityTivaR\StringEqualityTivaR\obj\Debug\StringEqualityTivaR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\StringEqualityTivaR\StringEqualityTivaR\obj\Debug\StringEqualityTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\StringEqualityTivaR\StringEqualityTivaR\obj\Debug\StringEqualityTivaR.pdb
